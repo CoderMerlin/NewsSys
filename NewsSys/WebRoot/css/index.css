@@ -1,0 +1,48 @@
+*{
+	font-family:"微软雅黑";
+}
+
+
+#opyright p{
+	color:#fff;
+	font-size:14px;
+	font-weight: bold;
+	text-align:center;
+	padding:10px 0px;
+	margin:0px;
+	letter-spacing:0.2em;
+}
+
+#copyright a{
+	display:inline-block;
+	height:32px;
+	line-height:32px;
+	text-decoration: none;
+	color:#fff;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 30px;
+	background:url("../images/yc2.ico") no-repeat left center;
+	
+}
+
+#newslogo{
+	background:#4d89bb url("../images/logo.gif") no-repeat left center;
+	background-size:300px 90px;
+	padding: 0px;
+	margin:0px;
+	height:100px;
+}
+
+
+#newslogo #top_adminlogin_right{
+	height:30px;
+	line-height:30px;
+	float:right;
+	margin-right:50px;
+	
+}
+#newslogo #top_adminlogin_right a{
+	text-decoration: none;
+}
+
